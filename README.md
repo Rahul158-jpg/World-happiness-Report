@@ -70,8 +70,6 @@
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt;WORLD HAPPINESS REPORT&gt;</p>
 
-<p><em>(You can add more projects as needed)</em></p>
-
 </div>
 
 <!-- Project 1 -->
@@ -96,9 +94,7 @@
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+<As part of the internship, I also attended LST and SST sessions conducted by industry professionals. These sessions provided valuable insights into maintaining a healthy balance between work and personal life, developing a professional mindset, and understanding the fundamentals of entrepreneurship. Overall, the experience contributed to my personal growth, communication skills, and preparedness for real world industry challenges.
 ---
 
 ## **Community Services**
