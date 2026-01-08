@@ -63,11 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
-
+>During this internship, I gained practical experience in SQL and Power BI through hands on learning and project based work. I worked on a project titled World Happiness Report, where I analyzed and managed data using SQL and created interactive dashboards in Power BI to derive meaningful insights. This internship strengthened my skills in data analysis, visualization, problem solving, and understanding real world data driven decision making.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
