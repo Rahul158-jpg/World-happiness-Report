@@ -128,9 +128,7 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-<img src="Community Services/WhatsApp Image 2026-01-13 at 3.26.51 PM.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="Community Services/WhatsApp Image 2026-01-13 at 3.26.51 PM (1).jpeg" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="Community Services/Screenshot 2026-01-13 162854.png" width="30%">
 </div>
 
 ---
